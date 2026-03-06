@@ -1,86 +1,60 @@
-<!-- Header -->
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║        hello, world. i'm bluex117.                  ║
-║        i build things that live in the dark —       ║
-║        servers, APIs, pipelines, daemons.           ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
+# bluex117
 
-*backend engineer · systems thinker · coffee-to-code converter*
+Backend Engineer &nbsp;·&nbsp; Systems Thinker &nbsp;·&nbsp; Coffee-to-Code Converter
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
+[![Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/your-handle)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://yoursite.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=bluex117&color=blueviolet&style=flat-square)](https://github.com/bluex117)
 
 </div>
 
 ---
 
-## ⠿ the craft
-
-> *"Any fool can write code that a computer can understand.*
-> *Good programmers write code that humans can understand."*
-> — Martin Fowler
-
-I design and build the invisible architecture behind things. If you're using an app and it's fast, reliable, and doesn't fall over at 3am — that's the work I care about.
-
-```
-what i do best:
-  → design RESTful & event-driven APIs
-  → wrangle data pipelines and async workflows
-  → build services that scale without drama
-  → make things talk to other things (reliably)
-```
+I build the infrastructure that keeps things running. Fast APIs, resilient pipelines, and services designed to handle the unexpected — the work that no one sees until it stops working.
 
 ---
 
-## ⠿ stack
+### Expertise
+
+Architecting RESTful and event-driven APIs built for clarity and long-term maintainability. Designing data pipelines and async workflows engineered to perform in production, not just in testing. Building distributed services that scale cleanly, and integrating systems that need to communicate with precision and reliability.
+
+---
+
+### Stack
 
 <div align="center">
 
 | Layer | Tools |
-|-------|-------|
-| **Languages** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Runtimes & Frameworks** | ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Infra & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+|:------|:------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
+| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
+| **Infra & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 </div>
 
 ---
 
-## ⠿ current projects
+### Projects
 
-```python
-projects = [
-    {
-        "name":    "schoolspace",
-        "status":  "in progress 🔧",
-        "stack":   ["React", "ASP.NET"],
-        "about":   "something interesting is brewing..."
-    },
-    {
-        "name":    "eventxperience",
-        "status":  "planning 📐",
-        "stack":   ["Angular", "ASP.NET"],
-        "about":   "watch this space"
-    }
-]
-```
+**schoolspace** &nbsp;·&nbsp; `in progress 🔧` &nbsp;·&nbsp; React, ASP.NET
 
-> 💡 *Got a project that needs a backend? Let's talk.*
+A school management platform focused on streamlining the day-to-day for students and staff alike. Currently in active development.
+
+**eventxperience** &nbsp;·&nbsp; `planning 📐` &nbsp;·&nbsp; Angular, ASP.NET
+
+An end-to-end event management experience. Architecture and planning underway.
 
 ---
 
-## ⠿ github stats
+### GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=bluex117&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluex117&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=bluex117&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluex117&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 <br/>
 
@@ -92,12 +66,7 @@ projects = [
 
 <div align="center">
 
-```
-  currently:  building in the dark
-  always:     learning something new
-  open to:    interesting problems
-```
-
-*thanks for stopping by ✦*
+Open to meaningful backend work and interesting engineering problems.
+&nbsp;[Get in touch →](https://linkedin.com/in/your-handle)
 
 </div>
